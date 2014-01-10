@@ -16,4 +16,6 @@ depedency:
 - that's all? sure? no, i'm not, will add more if necessary
 
 
+no code as of from now, i have to create system specification and & design first.
+
 al be bak!
